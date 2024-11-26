@@ -1,5 +1,5 @@
 # Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation
-<img width="1239" alt="image" src="https://github.com/user-attachments/assets/a308e214-598f-4980-92ff-32e985df55a2">
+<img width="1307" alt="image" src="https://github.com/user-attachments/assets/64723e80-d252-4236-bc9c-5c9cca9b0899">
 
 ## Update
 [11/2024], pre-trained weights and evalutation code on MUSES are released.
