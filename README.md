@@ -27,4 +27,4 @@ Used Datasets:
 | Ours    | 46.01  | 19.57  | 32.13  | 46.29  | 51.25  | 35.21  | 51.14  | 40.23  | [model](https://drive.google.com/file/d/17pmkR_xdCKdn0LPwaf27S7URjjI1HeMS/view?usp=sharing) |
 
 ## References
-We appreciate the previous open-source works: [DELIVER]([https://github.com/jamycheung/Trans4PASS](https://github.com/jamycheung/DELIVER)) / [SegFormer](https://github.com/NVlabs/SegFormer) / [MUSES](https://muses.vision.ee.ethz.ch/)
+We appreciate the previous open-source works: [DELIVER](https://github.com/jamycheung/DELIVER) / [SegFormer](https://github.com/NVlabs/SegFormer) / [MUSES](https://muses.vision.ee.ethz.ch/)
