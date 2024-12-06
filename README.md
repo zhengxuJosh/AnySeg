@@ -1,4 +1,4 @@
-# Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation
+# Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation [PDF](https://arxiv.org/pdf/2411.17141)
 <img width="1307" alt="image" src="https://github.com/user-attachments/assets/64723e80-d252-4236-bc9c-5c9cca9b0899">
 
 ## Update
