@@ -3,6 +3,7 @@
 
 ## Update
 [11/2024], pre-trained weights and evalutation code on MUSES are released.
+
 [11/2024], draft paper is available at [pdf](https://arxiv.org/pdf/2411.17141).
 
 ## Environments
